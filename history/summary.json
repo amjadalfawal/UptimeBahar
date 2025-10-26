@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 74,
-    "timeDay": 74,
-    "timeWeek": 74,
-    "timeMonth": 74,
-    "timeYear": 74,
+    "time": 77,
+    "timeDay": 77,
+    "timeWeek": 77,
+    "timeMonth": 77,
+    "timeYear": 77,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/erp.bahargroup.net.ico",
     "slug": "bahar-erp",
     "status": "down",
-    "uptime": "11.96%",
-    "uptimeDay": "11.96%",
-    "uptimeWeek": "11.96%",
-    "uptimeMonth": "11.96%",
-    "uptimeYear": "11.96%",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-25": 4
+      "2025-10-26": 87,
+      "2025-10-25": 508
     }
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1932,
-    "timeDay": 1932,
-    "timeWeek": 1932,
-    "timeMonth": 1932,
-    "timeYear": 1932,
+    "time": 1825,
+    "timeDay": 1825,
+    "timeWeek": 1825,
+    "timeMonth": 1825,
+    "timeYear": 1825,
     "dailyMinutesDown": {}
   }
 ]
