@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/erp.bahargroup.net.ico",
     "slug": "bahar-erp",
     "status": "down",
-    "uptime": "70.17%",
+    "uptime": "62.61%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.31%",
-    "uptimeMonth": "70.17%",
-    "uptimeYear": "70.17%",
+    "uptimeWeek": "64.85%",
+    "uptimeMonth": "62.61%",
+    "uptimeYear": "62.61%",
     "time": 2755,
     "timeDay": 0,
     "timeWeek": 2755,
     "timeMonth": 2755,
     "timeYear": 2755,
     "dailyMinutesDown": {
-      "2025-11-02": 88,
+      "2025-11-02": 1376,
       "2025-11-01": 1440,
       "2025-10-31": 727,
       "2025-10-26": 423,
@@ -46,7 +46,7 @@
     "url": "https://bahar.isell360platform.com",
     "icon": "https://icons.duckduckgo.com/ip3/bahar.isell360platform.com.ico",
     "slug": "bahar-isell",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -57,6 +57,8 @@
     "timeWeek": 2035,
     "timeMonth": 1988,
     "timeYear": 1988,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-02": 0
+    }
   }
 ]
