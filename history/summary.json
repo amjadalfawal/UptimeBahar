@@ -29,14 +29,14 @@
     "url": "https://erp.bahargroup.net",
     "icon": "https://icons.duckduckgo.com/ip3/erp.bahargroup.net.ico",
     "slug": "bahar-erp",
-    "status": "up",
-    "uptime": "42.65%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "42.77%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.65%",
+    "uptimeYear": "42.77%",
     "time": 1627,
-    "timeDay": 1532,
+    "timeDay": 1526,
     "timeWeek": 1454,
     "timeMonth": 1501,
     "timeYear": 1627,
@@ -220,7 +220,8 @@
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
-      "2026-07-23": 154
+      "2026-07-23": 154,
+      "2026-08-30": 0
     }
   },
   {
@@ -235,7 +236,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 2633,
-    "timeDay": 2563,
+    "timeDay": 2711,
     "timeWeek": 3334,
     "timeMonth": 3176,
     "timeYear": 2633,
